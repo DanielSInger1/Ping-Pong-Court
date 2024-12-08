@@ -144,7 +144,7 @@
 - **Ball Tracking**: Visualize the ball’s trajectory with each bounce marked on the table.
 - **Shot Accuracy**: Analyze heat maps and shot placement to improve your accuracy.
 
-## Example Videos
+### Example Videos
 
 
 ### Original Video
